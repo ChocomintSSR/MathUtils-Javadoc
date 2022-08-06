@@ -1,0 +1,8 @@
+net.chocomint.math
+net.chocomint.math.base
+net.chocomint.math.complex
+net.chocomint.math.geometry.dim2
+net.chocomint.math.geometry.dim3
+net.chocomint.math.matrix
+net.chocomint.math.sequence
+net.chocomint.math.utils
